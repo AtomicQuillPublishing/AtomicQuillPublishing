@@ -8,9 +8,5 @@ In this space, you'll find all the supplements and homebrew documents that *Atom
 
 <h3 align="center">Dive in and enjoy crafting your next adventure with Atomic Quill!</h3>
 
-<br>
-
-<h2 align="center"><b>You can find a <a href="Table of Contents"> here.</b></h2></a>
-
 <p align="right"><img src="https://i.imgur.com/IiFSjh8.png"></p>
 
