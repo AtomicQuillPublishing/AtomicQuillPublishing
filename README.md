@@ -2,7 +2,20 @@
 
 <h2 align="center">Hello and welcome to the Atomic Quill Publishing repository!</h2>
 
+<br>
+
 In this space, you'll find all the supplements and homebrew documents that *Atomic Quill* has crafted. Most of these documents are for **Dungeons & Dragons 5th Edition**, but you'll also find various TTRPG-related musings.
+
+<br>
+
+## Repositories
+
+[COMING SOONG]
+
+<br>
+
+### Minor Repositories
+1. [Five Kings](https://github.com/AtomicQuillPublishing/five-kings)
 
 <br>
 
