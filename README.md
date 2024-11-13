@@ -16,6 +16,7 @@ In this space, you'll find all the supplements and homebrew documents that *Atom
 
 ### Minor Repositories
 1. [Five Kings](https://github.com/AtomicQuillPublishing/five-kings)
+2. [Emerald's Table of Books](https://github.com/AtomicQuillPublishing/emeralds-table-of-books)
 
 <br>
 
