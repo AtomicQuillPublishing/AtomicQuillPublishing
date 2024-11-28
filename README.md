@@ -21,7 +21,7 @@ The Forge Project [COMING SOONG]
 <br>
 
 ### OGL Compliance:
-All content created by _Atomic Quill Publishing_ complies with the **Open Gaming License (OGL)**. This license allows for the sharing, adaptation, and use of certain game mechanics and content in accordance with the terms outlined by the OGL.
+All content created by _Atomic Quill Publishing_ complies with the **[Open Gaming License](https://github.com/AtomicQuillPublishing/AtomicQuillPublishing/blob/main/ogl.md)** (OGL). This license allows for the sharing, adaptation, and use of certain game mechanics and content in accordance with the terms outlined by the OGL.
 
 <br>
 
