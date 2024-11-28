@@ -20,6 +20,11 @@ The Forge Project [COMING SOONG]
 
 <br>
 
+### OGL Compliance:
+All content created by _Atomic Quill Publishing_ complies with the **Open Gaming License (OGL)**. This license allows for the sharing, adaptation, and use of certain game mechanics and content in accordance with the terms outlined by the OGL.
+
+<br>
+
 ***Quick Note from Emerald:*** 
 <p>A lot of this content was created by myself with the help of AI. As a result, not all of it has been playtested for balance. Think of this as a living journal filled with creative ideas I thought would be fun to incorporate into a D&D campaign. Please keep that in mind when using any of the documents or PDFs found here.</p>
 
